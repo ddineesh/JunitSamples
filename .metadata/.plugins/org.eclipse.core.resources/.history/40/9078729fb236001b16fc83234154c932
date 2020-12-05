@@ -1,0 +1,17 @@
+package com.dinesh.junit.helper;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+public class StringHelperTest {
+
+	@Test
+	public void test() {
+		StringHelper helper=new StringHelper();
+		assertEquals("BCD", helper.truncateAInFirst2Positions("AABCD"));
+		
+		//AABCD => BCD ABC => BC CEFG => CEFG CBAA => CBAA
+	}
+
+}

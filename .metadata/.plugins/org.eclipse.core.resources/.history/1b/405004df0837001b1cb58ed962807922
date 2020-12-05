@@ -1,0 +1,47 @@
+package com.dinesh.junit.helper;
+
+import static org.junit.Assert.*;
+
+import org.junit.After;
+import org.junit.Before;
+import org.junit.BeforeClass;
+import org.junit.Test;
+
+public class QuickTestBeforeAfter {
+
+	@BeforeClass
+	public static void beforeAnyExecution()
+	{
+		System.out.println(" This block is executed only once");
+	}
+
+	@Before
+	public void beforeEachTest()
+	{
+		System.out.println(" This step is executed before every test case");
+	}
+	
+	@Test
+	public void test1() {
+		System.out.println(" The Test case 1 executed");
+	}
+	
+	@Test
+	public void test2() {
+		System.out.println(" The Test case 2 executed");
+	}
+	
+	@After
+	public void tearDown()
+	{
+		System.out.println(" This step is executed after every test case");
+		
+	}
+	
+	@AfterClass
+	public static void afterAllExecution()
+	{
+		System.out.println(" This block is executed only once after Al");
+	}
+
+}

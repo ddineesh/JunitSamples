@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="StringHelperTest.areFirstAndLastTwoCharactersTheSame_firstAndLastAreSame" project="JunitSamples" tests="1" started="1" failures="0" errors="0" ignored="0">
+  <testcase name="areFirstAndLastTwoCharactersTheSame_firstAndLastAreSame" classname="com.dinesh.junit.helper.StringHelperTest" time="0.002"/>
+</testrun>

@@ -1,0 +1,5 @@
+package com.dinesh.junit.helper;
+
+public class StringHelper {
+
+}

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="StringHelperTest" project="JunitSamples" tests="7" started="7" failures="0" errors="0" ignored="0">
+  <testsuite name="com.dinesh.junit.helper.StringHelperTest" time="0.006">
+    <testcase name="testTruncateAInFirst2Positions_AinlastTwoPostions" classname="com.dinesh.junit.helper.StringHelperTest" time="0.002"/>
+    <testcase name="testAreFirstAndLastTwoCharactersTheSame_onlyTwoCharactersPassed" classname="com.dinesh.junit.helper.StringHelperTest" time="0.001"/>
+    <testcase name="testTruncateAInFirst2Positions_AinfirstTwoPostions" classname="com.dinesh.junit.helper.StringHelperTest" time="0.0"/>
+    <testcase name="testTruncateAInFirst2Positions_AinfirstPostion" classname="com.dinesh.junit.helper.StringHelperTest" time="0.0"/>
+    <testcase name="testAreFirstAndLastTwoCharactersTheSame_singleCharacterPassed" classname="com.dinesh.junit.helper.StringHelperTest" time="0.0"/>
+    <testcase name="testAreFirstAndLastTwoCharactersTheSame_firstAndLastAreSame" classname="com.dinesh.junit.helper.StringHelperTest" time="0.001"/>
+    <testcase name="testAreFirstAndLastTwoCharactersTheSame_firstAndLastAreNotSame" classname="com.dinesh.junit.helper.StringHelperTest" time="0.002"/>
+  </testsuite>
+</testrun>

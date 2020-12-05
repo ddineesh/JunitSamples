@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="StringHelperRunWithParameterizedTest" project="JunitSamples" tests="3" started="3" failures="0" errors="0" ignored="0">
+  <testsuite name="com.dinesh.junit.helper.StringHelperRunWithParameterizedTest" time="0.007">
+    <testsuite name="[0]" time="0.005">
+      <testcase name="testTruncateAInFirst2Positions_AinfirstTwoPostions[0]" classname="com.dinesh.junit.helper.StringHelperRunWithParameterizedTest" time="0.005"/>
+    </testsuite>
+    <testsuite name="[1]" time="0.001">
+      <testcase name="testTruncateAInFirst2Positions_AinfirstTwoPostions[1]" classname="com.dinesh.junit.helper.StringHelperRunWithParameterizedTest" time="0.001"/>
+    </testsuite>
+    <testsuite name="[2]" time="0.001">
+      <testcase name="testTruncateAInFirst2Positions_AinfirstTwoPostions[2]" classname="com.dinesh.junit.helper.StringHelperRunWithParameterizedTest" time="0.001"/>
+    </testsuite>
+  </testsuite>
+</testrun>
