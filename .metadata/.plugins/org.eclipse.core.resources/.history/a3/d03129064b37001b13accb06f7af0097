@@ -1,0 +1,5 @@
+package com.dinesh.junit.business;
+
+public interface ClientBO {
+
+}

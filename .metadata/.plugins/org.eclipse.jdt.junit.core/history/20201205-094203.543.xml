@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><testrun name="ArraysCompareTest" project="JunitSamples" tests="1" started="1" failures="0" errors="0" ignored="0">
-  <testsuite name="com.dinesh.junit.helper.ArraysCompareTest" time="0.005">
-    <testcase name="testArraysSort_RandomArrays" classname="com.dinesh.junit.helper.ArraysCompareTest" time="0.005"/>
-  </testsuite>
-</testrun>

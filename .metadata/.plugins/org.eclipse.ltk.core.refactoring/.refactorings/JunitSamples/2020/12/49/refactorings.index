@@ -1,3 +1,5 @@
 1607142587425	Inline local variable 'actual'
 1607142601478	Inline local variable 'expected'
 1607191744394	Copy compilation unit
+1607207530535	Rename type 'ClientBO'
+1607208125583	Rename package 'com.dinesh.junit.exception'

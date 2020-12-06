@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extract local variable &apos;clientProductsSum&apos; from expression &apos;clientBOImpl.getClientProductsSum(products)&apos;&#x0D;&#x0A;- Original project: &apos;JunitSamples&apos;&#x0D;&#x0A;- Variable name: &apos;clientProductsSum&apos;&#x0D;&#x0A;- Destination method: &apos;com.dinesh.junit.business.BankClientTest.main()&apos;&#x0D;&#x0A;- Variable expression: &apos;clientBOImpl.getClientProductsSum(products)&apos;&#x0D;&#x0A;- Replace occurrences of expression with variable" description="Extract local variable &apos;clientProductsSum&apos;" final="false" id="org.eclipse.jdt.ui.extract.temp" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.dinesh.junit.business{BankClientTest.java" name="clientProductsSum" replace="true" selection="1375 43" stamp="1607215237761" varType="false" version="1.0"/>
+</session>

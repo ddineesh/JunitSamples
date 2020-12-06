@@ -1,0 +1,11 @@
+package com.dinesh.junit.business;
+
+public class BankClientTest {
+
+	public static void main(String... args)
+	{
+		ClientBOImpl clientImpl=new ClientImpl();
+		
+	}
+	
+}

@@ -1,0 +1,29 @@
+package com.dinesh.junit.business;
+
+import java.util.ArrayList;
+import java.util.Arrays;
+
+import com.dinesh.junit.model.ClientImpl;
+import com.dinesh.junit.model.ClientType;
+import com.dinesh.junit.model.CollateralType;
+import com.dinesh.junit.model.ProductType;
+import com.sun.tools.javac.util.List;
+
+public class BankClientTest {
+
+	public static void main(String... args)
+	{
+		ArrayList collaterals=new ArrayList();
+		collaterals.add(CollateralType.BONDS);
+		
+
+		ArrayList products=new ArrayList();
+		products.add(ProductType.BANK_GUARANTEE);
+		
+		ClientImpl clientImpl=new ClientImpl(3311L,"Dinesh",ClientType.PRIVATE,collaterals,products);
+		
+		System.out.println(clientImpl);
+		
+	}
+	
+}
